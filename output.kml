@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="32">
+            <LineStyle id="33">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="3">
+            <name>Municities of Zambales</name>
+            <styleUrl>#32</styleUrl>
+            <LineString id="2">
+                <coordinates>120.28361111111111,14.831388888888888,0.0 120.23444444444445,14.877500000000001,0.0 120.205,14.93,0.0 120.15666666666667,14.975277777777778,0.0 120.08888888888889,14.94888888888889,0.0 120.07888888888888,15.015,0.0 120.07027777777778,15.061111111111112,0.0 120.05555555555556,15.158888888888889,0.0 120.02472222222222,15.28888888888889,0.0 119.9786111111111,15.32638888888889,0.0 119.90833333333335,15.434166666666666,0.0 119.95166666666667,15.537777777777778,0.0 119.92916666666667,15.627222222222223,0.0 119.91000000000001,15.7625,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="5">
+            <name>Olongapo City</name>
+            <Point id="4">
+                <coordinates>120.28361111111111,14.831388888888888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Subic</name>
+            <Point id="6">
+                <coordinates>120.23444444444445,14.877500000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Castillejos</name>
+            <Point id="8">
+                <coordinates>120.205,14.93,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>San Marcelino</name>
+            <Point id="10">
+                <coordinates>120.15666666666667,14.975277777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>San Antonio</name>
+            <Point id="12">
+                <coordinates>120.08888888888889,14.94888888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>San Narciso</name>
+            <Point id="14">
+                <coordinates>120.07888888888888,15.015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>San Felipe</name>
+            <Point id="16">
+                <coordinates>120.07027777777778,15.061111111111112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Cabangan</name>
+            <Point id="18">
+                <coordinates>120.05555555555556,15.158888888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Botolan</name>
+            <Point id="20">
+                <coordinates>120.02472222222222,15.28888888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Iba</name>
+            <Point id="22">
+                <coordinates>119.9786111111111,15.32638888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Palauig</name>
+            <Point id="24">
+                <coordinates>119.90833333333335,15.434166666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Masinloc</name>
+            <Point id="26">
+                <coordinates>119.95166666666667,15.537777777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Candelaria</name>
+            <Point id="28">
+                <coordinates>119.92916666666667,15.627222222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Santa Cruz</name>
+            <Point id="30">
+                <coordinates>119.91000000000001,15.7625,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
